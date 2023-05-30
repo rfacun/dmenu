@@ -10,7 +10,7 @@ non-consecutive portions of the string to be matched.
 
 ## Install
 ```
-git clone https://github.com/rfacun/dwm.git
+git clone https://github.com/rfacun/dmenu.git
 cd dwm
 sudo make clean install
 ```
