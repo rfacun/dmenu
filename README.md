@@ -11,6 +11,6 @@ non-consecutive portions of the string to be matched.
 ## Install
 ```
 git clone https://github.com/rfacun/dmenu.git
-cd dwm
+cd dmenu
 sudo make clean install
 ```
